@@ -1,0 +1,6 @@
+int number = 25;
+String str = "Hello World";
+char letter  'a';
+boolean isValid = true;
+double decimal = 15.75;
+String word;
